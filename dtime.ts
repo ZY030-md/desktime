@@ -13,7 +13,9 @@ const projectAlias: any = {
 	bj: 'BaubleJet',
 	ze: 'Zenie',
 	njs: 'NodeJS',
-	dt: 'DeskTime'
+	dt: 'DeskTime',
+	mc: 'Must Coverings',
+	ca: 'Change Agents'
 }
 const startProject = async (alias: string, task: string) => {
 	try {
